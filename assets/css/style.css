@@ -181,6 +181,6 @@ img {
     transform: scale(1.5);
 }
 
-.service-description {
-    box-sizing: border-box;
+.service-description, .what-i-do, .contact-details, .website-description, .intro {
+    color: #fff;
   }
