@@ -184,3 +184,7 @@ img {
 .service-description, .what-i-do, .contact-details, .website-description, .intro {
     color: #fff;
   }
+
+.service-header {
+    padding-top: 20px;
+}
