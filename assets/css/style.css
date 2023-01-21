@@ -40,6 +40,10 @@ img {
     color: var(--color-brand);
 }
 
+.text-brand-2 {
+    color: var(--color-brand2);
+}
+
 .bg-base {
     background-color: var(--color-base);
 }
@@ -177,8 +181,6 @@ img {
     transform: scale(1.5);
 }
 
-/* FORM */
-
-.form-heading {
-    color: var(--color-heading);
-}
+.service-description {
+    box-sizing: border-box;
+  }
